@@ -7,6 +7,7 @@
   * [H2CClient](/docs/api/H2CClient.md "Undici H2C API - Client")
   * [Pool](/docs/api/Pool.md "Undici API - Pool")
   * [BalancedPool](/docs/api/BalancedPool.md "Undici API - BalancedPool")
+  * [RoundRobinPool](/docs/api/RoundRobinPool.md "Undici API - RoundRobinPool")
   * [Agent](/docs/api/Agent.md "Undici API - Agent")
   * [ProxyAgent](/docs/api/ProxyAgent.md "Undici API - ProxyAgent")
   * [Socks5ProxyWrapper](/docs/api/Socks5ProxyWrapper.md "Undici API - SOCKS5 Proxy")
@@ -43,3 +44,4 @@
   * [Client Certificate](/docs/best-practices/client-certificate.md "Connect using a client certificate")
   * [Writing Tests](/docs/best-practices/writing-tests.md "Using Undici inside tests")
   * [Mocking Request](/docs/best-practices/mocking-request.md "Using Undici inside tests")
+  * [Crawling](/docs/best-practices/crawling.md "Crawling")
